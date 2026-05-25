@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Code Reviewer
 
 A placement-ready AI code review project with a dashboard frontend and FastAPI backend.
@@ -67,3 +68,6 @@ uvicorn main:app --reload --port 8000
 ## Resume Line
 
 Built an AI-powered code review platform using FastAPI, JWT authentication, Gemini API, and a responsive dashboard to detect bugs, security risks, performance issues, and generate downloadable review reports.
+=======
+# AI-Code-Reviewer
+>>>>>>> ee44b80a15103af3929817b6dd1eaa98a85038c4
